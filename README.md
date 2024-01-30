@@ -14,7 +14,7 @@
 <a href="https://twitter.com/_faizhabibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_faizhabibi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad faiz habibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad faiz habibi" height="30" width="40" /></a>
 <a href="https://instagram.com/_faizhabibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_faizhabibi" height="30" width="40" /></a>
-<a href="https://discord.gg/471982682838925312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="471982682838925312" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discordapp.com/users/471982682838925312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/471982682838925312/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
