@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Programming basic**
 
-- 📫 How to reach me **faizcraft07@gmail.com**
+- 📫 How to reach me **faizhabibi208@gmail.com**
 
 - ⚡ Fun fact **i love playing games**
 
